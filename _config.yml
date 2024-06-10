@@ -13,15 +13,15 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+#twitter: "#"
+linkedin: "olivier-denis-amon/"
+#stackoverflow: "#"
+#github: "#"
+researchgate: "Olivier-Denis-4"
+orcid: "0000-0003-0448-7154"
+#quora: "#"
+#instagram: "#"
+facebook: "olivier.denis.amon"
 
 
 # Markdown
