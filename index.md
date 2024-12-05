@@ -20,5 +20,6 @@ Olivier Denis' work in Entropic Information Theory is at the forefront of contem
 
 ### Also, check out:
 
-- [Entropic Information theory](https://sites.google.com/view/olivierdenis){:target="_blank"} 
+- [Entropic Information theory](https://sites.google.com/view/olivierdenis){:target="_blank"}
+- [Holographic Gravity](https://olivierdenis.github.io/Holographic-Gravity){:target="_blank"} 
 
